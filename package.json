@@ -1,7 +1,7 @@
 {
   "name": "lastproject2",
   "version": "0.1.0",
-  "homepage": "https://Solohater.github.io/react_depoly_gh",
+  "homepage": "https://Solohater.github.io/react_deploy_gh",
   "private": true,
   "dependencies": {
     "react": "^18.3.1",
