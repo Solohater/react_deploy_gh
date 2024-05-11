@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_depoly_gh/static/css/main.a86bda18.css",
+    "main.js": "/react_depoly_gh/static/js/main.a94cca7f.js",
+    "index.html": "/react_depoly_gh/index.html",
+    "main.a86bda18.css.map": "/react_depoly_gh/static/css/main.a86bda18.css.map",
+    "main.a94cca7f.js.map": "/react_depoly_gh/static/js/main.a94cca7f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a86bda18.css",
+    "static/js/main.a94cca7f.js"
+  ]
+}
